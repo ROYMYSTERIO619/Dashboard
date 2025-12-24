@@ -93,4 +93,4 @@ Since this uses ES Modules, you need a local server to avoid CORS errors.
 - [ ] Soundscapes for Focus Mode
 
 ---
-*Built by Deepto Roy | 2025*
+*Built by Deepta Roy | 2025*
