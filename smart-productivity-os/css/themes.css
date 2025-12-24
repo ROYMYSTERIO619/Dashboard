@@ -1,0 +1,5 @@
+/* css/themes.css */
+/* Intentionally empty for now, or allows user custom themes later */
+[data-theme="custom"] {
+    --primary-color: #ec4899;
+}
